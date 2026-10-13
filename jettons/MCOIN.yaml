@@ -1,3 +1,5 @@
-name: MellCoin
-symbol: MCOIN
+name: "MellCoin"
+description: "MellCoin token"
+image: https://i.ibb.co/KpnRZTCD/image.webp
 address: "EQA7HDlP6mn6JIrdbNxut2g68po-VBFLlbBNDL27-79tskt"
+symbol: "MCOIN"
